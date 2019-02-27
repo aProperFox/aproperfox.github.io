@@ -16,12 +16,38 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Android
+    web_url: https://github.com/topics/android
+    image_url: https://raw.githubusercontent.com/github/explore/a3520d60fbf9b0bdd0b7d563a1a3ed596acd8489/topics/android/android.png
 
-  - name: Web design
+  - name: Unity
+    web_url: https://github.com/topics/unity
+    image_url: https://raw.githubusercontent.com/github/explore/c9f1edf5650515721edff818dffa8e14614aa266/topics/unity/unity.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Rust
+    web_url: https://github.com/topics/rust
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
+
+  - name: Raspberry-Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/raspberry-pi/raspberry-pi.png
+
+  - name: OpenGL
+    web_url: https://github.com/topics/opengl
+    image_url: https://raw.githubusercontent.com/github/explore/b42c0eb5f1fea567f0cf423a1201c0a5bf715e19/topics/opengl/opengl.png
+
+  - name: Kotlin
+    web_url: https://github.com/topics/kotlin
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kotlin/kotlin.png
+
+  - name: GraphQL
+    web_url: https://github.com/topics/graphql
+    image_url: https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png
+
+  - name: Firebase
+    web_url: https://github.com/topics/firebase
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/firebase/firebase.png
+
+  - name: Ethereum
+    web_url: https://github.com/topics/ethereum
+    image_url: https://raw.githubusercontent.com/github/explore/875ffd6b3fb65c3f69deb4f269e87efda447cc8c/topics/ethereum/ethereum.png
